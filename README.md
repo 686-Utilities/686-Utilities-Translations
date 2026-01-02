@@ -4,7 +4,7 @@
 **View all features in the English GitHub folder: https://github.com/686-Utilities/686-Utilities-Translations/tree/main/en-GB**
 
 ## Have a question? Need assistance?
-Please get in touch via our [Discord Server](https://discord.com/invite/gyw5rDHCfr). ⭐
+Please get in touch via our [Discord Server](https://discord.com/invite/SJfxcAhjCF). ⭐
 
 ## How do I contribute to an existing language?
 - Create a [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repository. This creates a personal copy for yourself.
