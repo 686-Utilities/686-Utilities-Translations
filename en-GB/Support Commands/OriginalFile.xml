@@ -1,0 +1,23 @@
+<Command>
+	<Name>Original File</Name>
+	<Title><![CDATA[How to get an original (unmodified) GTA V file.]]></Title>
+	<Color>89, 0, 255</Color>
+	<Description><![CDATA[If you need an **original GTA V file** (for example `visualsettings.dat`, `update.rpf`, etc.), you usually **already have it on your computer**.
+
+When modding LSPDFR, you normally edit files inside your **mods folder**. This folder is just a **copy of the real game files**, allowing you to modify them safely without touching the originals.
+
+That means the **original, unmodified version** of the file still exists **outside the mods folder** in your main GTA V directory.
+
+Instead of downloading files from others, simply copy the original file from the base game back into your mods folder.]]></Description>
+	<Field>
+		<Name><![CDATA[How to find the original file]]></Name>
+		<Value><![CDATA[1. Go to your **GTAV installation folder**.
+2. Navigate to the **same path** as the file inside your `mods` folder.
+3. Find the file **outside the `mods` folder**.
+4. Copy it and paste it into the same location **inside the `mods` folder**.
+
+Example:
+`GTAV\update\update.rpf` → original file  
+`GTAV\mods\update\update.rpf` → modded copy]]></Value>
+	</Field>
+</Command>
