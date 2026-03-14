@@ -7,7 +7,7 @@
 The `mods` folder is just a **copy of your real game files** used for safe modding.  
 The **original files are still in the same location outside the `mods` folder**.]]></Description>
 	<Field>
-		<Name><![CDATA[How to restore a file]]></Name>
+		<Name><![CDATA[How to find the original file]]></Name>
 		<Value><![CDATA[1. Open your **GTAV installation folder**.
 2. Navigate to the **same path** as the file inside `mods`.
 3. Copy the file **from outside the `mods` folder**.
