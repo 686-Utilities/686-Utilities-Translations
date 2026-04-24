@@ -1,0 +1,10 @@
+<Command>
+		<Name>Troubleshooting</Name>
+		<Title><![CDATA[Basic Troubleshooting Steps.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Before we can assist further, please complete these basic troubleshooting steps: \n1. **Rename your "mods" folder to "_mods"**. If this works, make sure you have a Heap Adjuster, Packfile Limit Adjuster, and a custom gameconfig installed. If nothing changes, revert any recent changes to your mods folder. \n2. **Rename "dinput8.dll" to "_dinput8.dll".** If this works, one of your .asi files is causing the issue. Rename it back, then remove all .asi files and re-add them one by one to find the problem. \n3. **Rename "vfs.dll" to "_vfs.dll".** If this works, the issue is likely to do with Lenny's Mod Loader. \n4. **Verify your game files** ([Steam](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.), [Epic Games](https://www.epicgames.com/help/epic-games-store-c-202300000001639/launcher-support-c-202300000001735/how-do-i-verify-game-files-in-the-epic-games-launcher-a202300000017217), or [Retail](https://support.rockstargames.com/articles/1LPrvXoriD2629aSKW2gnQ/how-to-verify-game-files-in-the-rockstar-games-launcher)).]]></Description>
+		<Field>
+			<Name><![CDATA[Have any of these steps fixed your problem?]]></Name>
+			<Value><![CDATA[Please let us know what caused the issue you were facing and what helped you fix it.]]></Value>
+		</Field>
+	</Command>
