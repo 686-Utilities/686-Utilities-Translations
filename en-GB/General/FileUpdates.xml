@@ -9,6 +9,9 @@
   <NewUpload><![CDATA[{0} has been uploaded.]]></NewUpload>
   <NewUpdate><![CDATA[{0} has been updated.]]></NewUpdate>
   <GetDMUpdates><![CDATA[Get DM Updates on this file!]]></GetDMUpdates>
+  <VersionUnchangedTitle>Note</VersionUnchangedTitle>
+  <VersionUnchangedBody>Version number was unchanged in this update.</VersionUnchangedBody>
+
 
   <PanelTitle><![CDATA[686 Utilities: Your LCPDFR.com Subscriptions]]></PanelTitle>
   <PanelDescription><![CDATA[You'll receive a Direct Message when any of these files update.
