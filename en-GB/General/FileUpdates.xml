@@ -22,6 +22,7 @@ To add a new subscription, use 'Add Subscription'.]]></PanelDescription>
   <PanelAddSubscription><![CDATA[Add Subscription]]></PanelAddSubscription>
   <PanelSearchAgain><![CDATA[Search Again]]></PanelSearchAgain>
   <PanelManageAllSubscriptions><![CDATA[Manage All Subscriptions]]></PanelManageAllSubscriptions>
+  <PanelDescriptionCommand><![CDATA[Review the files relevant to your search result.]]></PanelDescriptionCommand>
 
   <PanelSelectFilePlaceholder><![CDATA[Select a file below!]]></PanelSelectFilePlaceholder>
   <PanelSubscribeToFilePlaceholder><![CDATA[Subscribe to a file below!]]></PanelSubscribeToFilePlaceholder>
