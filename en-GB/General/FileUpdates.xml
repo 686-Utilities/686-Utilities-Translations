@@ -11,6 +11,12 @@
   <GetDMUpdates><![CDATA[Get DM Updates on this file!]]></GetDMUpdates>
   <VersionUnchangedTitle>Note</VersionUnchangedTitle>
   <VersionUnchangedBody>Version number was unchanged in this update.</VersionUnchangedBody>
+  <ViewChangelog><![CDATA[View Changelog]]></ViewChangelog>
+  <ChangelogHeader><![CDATA[Changelog]]></ChangelogHeader>
+  <ChangelogVersionLabel><![CDATA[Version]]></ChangelogVersionLabel>
+  <ChangelogNoData><![CDATA[No changelog data is stored for this file yet.]]></ChangelogNoData>
+  <ChangelogTruncated><![CDATA[This changelog was truncated for Discord display.]]></ChangelogTruncated>
+
 
 
   <PanelTitle><![CDATA[686 Utilities: Your LCPDFR.com Subscriptions]]></PanelTitle>
