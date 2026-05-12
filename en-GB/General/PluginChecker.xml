@@ -31,4 +31,10 @@
 
   <Btn_GetDMUpdates><![CDATA[Get DM Updates on this file!]]></Btn_GetDMUpdates>
   <Btn_VisitFilePage><![CDATA[Visit File Page]]></Btn_VisitFilePage>
+
+  <DetailsFetching><![CDATA[Fetching complete file details from LCPDFR.com...]]></DetailsFetching>
+  <DetailsAlreadyPresent><![CDATA[Complete details are already available for this file.]]></DetailsAlreadyPresent>
+  <DetailsFetchComplete><![CDATA[Complete details have been fetched and stored.]]></DetailsFetchComplete>
+  <DetailsFetchFailed><![CDATA[Failed to fetch complete file details. Please try again.]]></DetailsFetchFailed>
+
 </Translations>
