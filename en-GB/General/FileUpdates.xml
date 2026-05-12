@@ -16,6 +16,7 @@
   <ChangelogVersionLabel><![CDATA[Version]]></ChangelogVersionLabel>
   <ChangelogNoData><![CDATA[No changelog data is stored for this file yet.]]></ChangelogNoData>
   <ChangelogTruncated><![CDATA[This changelog was truncated for Discord display.]]></ChangelogTruncated>
+  <ChangelogVersionSentence><![CDATA[This changelog is associated to this version of {0}: `{1}`]]></ChangelogVersionSentence>
 
 
 
