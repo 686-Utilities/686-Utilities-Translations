@@ -55,7 +55,4 @@
   <DetailsConfirmYes><![CDATA[Yes, sync now]]></DetailsConfirmYes>
   <DetailsConfirmNo><![CDATA[No]]></DetailsConfirmNo>
 
-
-<DetailsOwnerOnly><![CDATA[Only the user who ran this command can press this sync button.]]></DetailsOwnerOnly>
-
 </Translations>
