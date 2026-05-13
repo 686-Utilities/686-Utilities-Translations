@@ -13,4 +13,10 @@
   <LastUpdatedLabel><![CDATA[Last Updated]]></LastUpdatedLabel>
   <UnknownDate><![CDATA[Unknown]]></UnknownDate>
   <PageCounter><![CDATA[-# Page **{0}** of **{1}**]]></PageCounter>
+
+  <ShareButton><![CDATA[Share]]></ShareButton>
+<ShareNotOwner><![CDATA[Only the person who ran this command can share this leaderboard snapshot.]]></ShareNotOwner>
+<ShareFailed><![CDATA[We couldn't share this right now. Please refresh the leaderboard and try again.]]></ShareFailed>
+<ShareSuccess><![CDATA[Shared successfully.]]></ShareSuccess>
+
 </Translations>
