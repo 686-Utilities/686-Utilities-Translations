@@ -32,9 +32,19 @@
   <Btn_GetDMUpdates><![CDATA[Get DM Updates on this file!]]></Btn_GetDMUpdates>
   <Btn_VisitFilePage><![CDATA[Visit File Page]]></Btn_VisitFilePage>
 
-  <DetailsFetching><![CDATA[Fetching complete file details from LCPDFR.com...]]></DetailsFetching>
+  <DetailsFetching><![CDATA[Requesting complete file details from LCPDFR.com...]]></DetailsFetching>
   <DetailsAlreadyPresent><![CDATA[Complete details are already available for this file.]]></DetailsAlreadyPresent>
   <DetailsFetchComplete><![CDATA[Complete details have been fetched and stored.]]></DetailsFetchComplete>
   <DetailsFetchFailed><![CDATA[Failed to fetch complete file details. Please try again.]]></DetailsFetchFailed>
+
+  <StatsHeading><![CDATA[Statistics]]></StatsHeading>
+<StatsViews><![CDATA[views]]></StatsViews>
+<StatsDownloads><![CDATA[downloads]]></StatsDownloads>
+<StatsReviews><![CDATA[reviews]]></StatsReviews>
+<StatsComments><![CDATA[comments]]></StatsComments>
+<StatsLastSynced><![CDATA[Last synced: {0}]]></StatsLastSynced>
+<StatsUnknown><![CDATA[N/A]]></StatsUnknown>
+
+<DetailsOwnerOnly><![CDATA[Only the user who ran this command can press this sync button.]]></DetailsOwnerOnly>
 
 </Translations>
