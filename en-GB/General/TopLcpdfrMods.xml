@@ -1,0 +1,16 @@
+<Translations>
+  <OnlyAllTimeAvailable><![CDATA[Only `All Time` is available right now.]]></OnlyAllTimeAvailable>
+  <InvalidCategory><![CDATA[Invalid category.]]></InvalidCategory>
+  <NoFilesFound><![CDATA[No files with download statistics were found for that category.]]></NoFilesFound>
+  <AllCategories><![CDATA[All Categories]]></AllCategories>
+  <CategoryFallback><![CDATA[Category {0}]]></CategoryFallback>
+  <PeriodAllTime><![CDATA[All Time]]></PeriodAllTime>
+
+  <HeaderTitle><![CDATA[LCPDFR.com Top Files]]></HeaderTitle>
+  <HeaderFilters><![CDATA[-# Category: **{0}**   |   Period: **{1}**]]></HeaderFilters>
+
+  <DownloadsLabel><![CDATA[Downloads]]></DownloadsLabel>
+  <LastUpdatedLabel><![CDATA[Last Updated]]></LastUpdatedLabel>
+  <UnknownDate><![CDATA[Unknown]]></UnknownDate>
+  <PageCounter><![CDATA[-# Page **{0}** of **{1}**]]></PageCounter>
+</Translations>
