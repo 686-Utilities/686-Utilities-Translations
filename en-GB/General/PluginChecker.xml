@@ -38,12 +38,23 @@
   <DetailsFetchFailed><![CDATA[Failed to fetch complete file details. Please try again.]]></DetailsFetchFailed>
 
   <StatsHeading><![CDATA[Statistics]]></StatsHeading>
-<StatsViews><![CDATA[views]]></StatsViews>
-<StatsDownloads><![CDATA[downloads]]></StatsDownloads>
-<StatsReviews><![CDATA[reviews]]></StatsReviews>
-<StatsComments><![CDATA[comments]]></StatsComments>
-<StatsLastSynced><![CDATA[Statistics last synced: {0}]]></StatsLastSynced>
-<StatsUnknown><![CDATA[N/A]]></StatsUnknown>
+  <StatsViews><![CDATA[views]]></StatsViews>
+  <StatsDownloads><![CDATA[downloads]]></StatsDownloads>
+  <StatsReviews><![CDATA[reviews]]></StatsReviews>
+  <StatsComments><![CDATA[comments]]></StatsComments>
+  <StatsLastSynced><![CDATA[Statistics last synced: {0}]]></StatsLastSynced>
+  <StatsUnknown><![CDATA[N/A]]></StatsUnknown>
+
+  <DetailsOwnerOnly><![CDATA[Only the user who ran this command can press this sync button.]]></DetailsOwnerOnly>
+  <DetailsActionCancelled><![CDATA[Action cancelled.]]></DetailsActionCancelled>
+  
+  <DetailsConfirmTitle><![CDATA[Sync this file with LCPDFR.com?]]></DetailsConfirmTitle>
+  <DetailsConfirmBody><![CDATA[Statistics and complete file details are usually updated monthly or when a file is updated.
+
+  If you need the latest stats now, continue.]]></DetailsConfirmBody>
+  <DetailsConfirmYes><![CDATA[Yes, sync now]]></DetailsConfirmYes>
+  <DetailsConfirmNo><![CDATA[No]]></DetailsConfirmNo>
+
 
 <DetailsOwnerOnly><![CDATA[Only the user who ran this command can press this sync button.]]></DetailsOwnerOnly>
 
