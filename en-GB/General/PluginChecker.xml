@@ -42,7 +42,7 @@
 <StatsDownloads><![CDATA[downloads]]></StatsDownloads>
 <StatsReviews><![CDATA[reviews]]></StatsReviews>
 <StatsComments><![CDATA[comments]]></StatsComments>
-<StatsLastSynced><![CDATA[Last synced: {0}]]></StatsLastSynced>
+<StatsLastSynced><![CDATA[Statistics last synced: {0}]]></StatsLastSynced>
 <StatsUnknown><![CDATA[N/A]]></StatsUnknown>
 
 <DetailsOwnerOnly><![CDATA[Only the user who ran this command can press this sync button.]]></DetailsOwnerOnly>
