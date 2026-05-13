@@ -1,0 +1,21 @@
+<Translations>
+  <Title><![CDATA[LCPDFR.com File: {0}]]></Title>
+  <FileNotFound><![CDATA[This file is not available yet. Please try again shortly.]]></FileNotFound>
+  <Unknown><![CDATA[Unknown]]></Unknown>
+  <AuthorUnknown><![CDATA[Unknown]]></AuthorUnknown>
+  <AuthorPrefix><![CDATA[Uploaded by: {0}]]></AuthorPrefix>
+
+  <FieldCategory><![CDATA[Category]]></FieldCategory>
+  <FieldLatestVersion><![CDATA[Latest Version]]></FieldLatestVersion>
+  <FieldStatistics><![CDATA[Statistics]]></FieldStatistics>
+  <Footer><![CDATA[686 Utilities | LCPDFR.com File Search]]></Footer>
+
+  <ButtonFilePage><![CDATA[File Page]]></ButtonFilePage>
+  <ButtonViewChangelog><![CDATA[View Changelog]]></ButtonViewChangelog>
+
+  <StatsViews><![CDATA[views]]></StatsViews>
+  <StatsDownloads><![CDATA[downloads]]></StatsDownloads>
+  <StatsReviews><![CDATA[reviews]]></StatsReviews>
+  <StatsComments><![CDATA[comments]]></StatsComments>
+  <StatsLastSynced><![CDATA[Statistics last synced: {0}]]></StatsLastSynced>
+</Translations>
