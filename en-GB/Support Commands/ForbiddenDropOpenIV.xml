@@ -2,5 +2,5 @@
 		<Name>OpenIV Red Circle Error</Name>
 		<Title><![CDATA[Unable to Drag and Drop in OpenIV.]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Not being able to drag and drop files into your main directory via OpenIV can be frustrating. Please try the solutions below to resolve it \n1. Make sure **edit mode** is enabled. \n2. Use **WinRAR** instead of **Windows Explorer**. \n3. Drag the file to the desktop first and then into OpenIV. ]]></Description>
+		<Description><![CDATA[Not being able to drag and drop files into your main directory via OpenIV can be frustrating. Please try the solutions below to resolve it \n1. Make sure **Edit Mode** is enabled. \n2. Use **WinRAR** instead of **Windows Explorer**. \n3. Drag the file to the desktop first, then into OpenIV. ]]></Description>
 </Command>
