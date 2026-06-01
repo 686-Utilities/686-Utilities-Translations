@@ -1,4 +1,5 @@
 <Command>
+		<TextCommandName>ssla</TextCommandName>
 		<Name>SSLA</Name>
 		<Title><![CDATA[SirenSetting Limit Adjuster.]]></Title>
 		<Color>89, 0, 255</Color>
