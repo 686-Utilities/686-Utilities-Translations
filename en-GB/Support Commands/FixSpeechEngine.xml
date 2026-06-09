@@ -2,7 +2,7 @@
 		<Name>Speech Engine Fix</Name>
 		<Title><![CDATA[Troubleshooting Microsoft Speech Engine.]]></Title>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[If you're having trouble with Grammar Police or another modification that requires Microsoft Speech Engine, please follow the instructions carefully. \n\nThe following video may help guide you through the process: https://youtu.be/3o7LKaRmTv0]]></Description>
+		<Description><![CDATA[If you're having trouble with Grammar Police or another modification that requires Microsoft Speech Engine, please follow the instructions carefully. \n\nThe following video may help guide you through the process: https://youtu.be/UCyNzMsV1Yc]]></Description>
 			    <Field>
 			<Name><![CDATA[Before requesting further support, please verify the following:]]></Name>
 			<Value><![CDATA[\n\n - You have installed the 64-bit version of Microsoft Speech Platform Runtime. The 32-bit version is not compatible and will not work: https://www.microsoft.com/en-us/download/details.aspx?id=27225 \n\n  - You have installed a valid Speech Recognition (SR) language package. Installing only the Text-to-Speech (TTS) package will not work: https://www.microsoft.com/en-us/download/details.aspx?id=27224 \n\n  - The language you are attempting to use includes the required grammar and language files. **Languages that do not have compatible grammar files will not function correctly.**]]></Value>
