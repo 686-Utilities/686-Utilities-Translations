@@ -1,0 +1,6 @@
+<Command>
+		<Name>ELS&DLSCompatibility</Name>
+		<Title><![CDATA[How to make ELS & DLS Compatible with eachother.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Making ELS & DLS comaptible with eachother is very simple and straight forward. Please follow the steps below. \n\n 1. Locate the **DLS.ini** and ind the "Extra Patch" value. \n 2. Set the "Extra Patch" value from **"true" to "false"** and click save. \n\n ELS & DLS should now be able to work alongside eachother. **If you still encounter issues**, please head to one of our many [support channels](https://discord.com/channels/788491012553179217/930551817790697492).]]></Description>
+	</Command>
