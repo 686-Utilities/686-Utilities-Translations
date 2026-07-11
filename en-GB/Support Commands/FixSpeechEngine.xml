@@ -1,4 +1,5 @@
 <Command>
+	 <TextCommandName>speech</TextCommandName>
 		<Name>Speech Engine Fix</Name>
 		<Title><![CDATA[Troubleshooting Microsoft Speech Engine.]]></Title>
 		<Color>89, 0, 255</Color>
