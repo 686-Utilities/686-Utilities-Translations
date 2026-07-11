@@ -1,4 +1,5 @@
 <Command>
+   <TextCommandName>graphics</TextCommandName>
 <Name>graphics</Name>
 <Title>
 <![CDATA[ Which Graphic Mod should you use? ]]>
