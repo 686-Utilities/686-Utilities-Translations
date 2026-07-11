@@ -1,6 +1,26 @@
 <Command>
-		<Name>graphics</Name>
-		<Title><![CDATA[Graphics Mod Recommendations.]]></Title>
-		<Color>89, 0, 255</Color>
-		<Description><![CDATA[There are lots of graphics mods to choose from for GTA V. Below we have listed **our own recommendations** for maximum stability and compatibility with LSPDFR. \n\n 1. [**CoreFX** (Free)](https://www.patreon.com/c/crxhvrd/home) \n\n 2. [**Visual V** (Free)](https://www.gta5-mods.com/misc/visualv) \n\n3. [**QuantV** (Paid)](https://www.patreon.com/c/QuantV/home) \n\n # Graphics Mods We Don't Advise Using. \n**Natural Vision Evolved & Natural Vision Remastered** - Whilst these both seem like great graphic enhancement mods, they constantly cause crashes, performance problems and compatibillity issues with LSPDFR.]]></Description>
+<Name>graphics</Name>
+<Title>
+<![CDATA[ Which Graphic Mod should you use? ]]>
+</Title>
+<Color>89, 0, 255</Color>
+<Description>
+<![CDATA[ Below you can find recommendations on graphic mods that are chosen based on stability & compatibility with LSPDFR. ]]>
+</Description>
+<Field>
+<Name>
+<![CDATA[ __We recommend:__ ]]>
+</Name>
+<Value>
+<![CDATA[ > [**CoreFX** (Free)](https://www.patreon.com/c/crxhvrd/home) \n > A dramatic improvement on visual clarity / realism through advanced lighting, custom color grading, and sharper textures. \n > [**Visual V** (Free)](https://www.gta5-mods.com/misc/visualv) \n > A performance-friendly graphic overhaul that focuses on realism by rewriting weather cycles, improved rendering, and sharpening shadows. \n > [**QuantV** (Paid)](https://www.patreon.com/c/QuantV/home) \n > A premium, top-tier graphic overhaul featuring highly advanced custom shaders, real-time reflections, and physics-based lighting that delivers the absolute closest look to real-world footage. ]]>
+</Value>
+</Field>
+<Field>
+<Name>
+<![CDATA[ __We don't recommend:__ ]]>
+</Name>
+<Value>
+<![CDATA[ > [**Natural Vision Evolved** (Free/Paid)](https://www.razedmods.com/)\n > NVE looks great, but can cause crashes, performance problems and has compatibillity issues with LSPDFR. \n > [**Redux** (Free)](https://gta5redux.com/)\n > GTA V Redux is no longer reliable on newer versions of GTAV. \n > [**ENB** (Free)](http://enbdev.com/download.html)\n > ENB is missing crucial updates for latest GTA V versions and causes frequent crashes.]]>
+</Value>
+</Field>
 </Command>
