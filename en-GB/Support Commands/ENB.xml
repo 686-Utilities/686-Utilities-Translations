@@ -1,4 +1,5 @@
 <Command>
+	 <TextCommandName>ENB</TextCommandName>
 		<Name>ENB</Name>
 		<Title><![CDATA[ENB Support Notice.]]></Title>
 		<Color>89, 0, 255</Color>
