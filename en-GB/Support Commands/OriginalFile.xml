@@ -1,4 +1,5 @@
 <Command>
+	 <TextCommandName>ogfile</TextCommandName>
 	<Name>Original File</Name>
 	<Title><![CDATA[Getting an original (unmodified) GTA V file.]]></Title>
 	<Color>89, 0, 255</Color>
