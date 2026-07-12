@@ -1,0 +1,7 @@
+<Command>
+  <TextCommandName>copiedlog</TextCommandName>
+		<Name>Copied Log</Name>
+		<Title><![CDATA[RagePluginHook.log, not Message.txt!]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[It looks like you've **copied and pasted the contents of your log file** instead of uploading the actual file. \n\nTo help us fully diagnose your issue, please drag and drop the full `RagePluginHook.log` file into this channel or use Discord's Upload File button.]]></Description>
+</Command>
