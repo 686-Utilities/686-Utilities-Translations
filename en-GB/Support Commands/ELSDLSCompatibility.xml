@@ -1,4 +1,5 @@
 <Command>
+	<TextCommandName>ELSDLS</TextCommandName>
 		<Name>ELSandDLSCompatibility</Name>
 		<Title><![CDATA[How to make ELS & DLS Compatible with each other.]]></Title>
 	    <ImageUrl><![CDATA[https://cdn.discordapp.com/attachments/1355618651516047360/1521546094192889909/image.png?ex=6a4539b9&is=6a43e839&hm=e4888a51db7b0a4f5aeb9df2bf7315db9cf7aee676a9cffd2c0ab48c5f9ee842&]]></ImageUrl>
