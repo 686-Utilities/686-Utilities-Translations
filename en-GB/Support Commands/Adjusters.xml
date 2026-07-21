@@ -6,7 +6,7 @@
 			`GTAV/mods/update/update.rpf/common/data`.\n\n**Heap Adjuster**\nDrag the Heapadjuster.asi and HeapAdjuster.ini into your main directory.\n\n**Packfile Limit Adjuster**\nDrag the PackfileLimitAdjuster.asi and PackfileLimitAdjuster.ini into your main directory.]]></Description>
 		<Button>
 			<Label><![CDATA[Custom Gameconfig]]></Label>
-			<Url><![CDATA[https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars]]></Url>
+			<Url><![CDATA[https://github.com/pnwparksfan/gameconfig/releases]]></Url>
 			<Style>Link</Style>
 		</Button>
 		<Button>
