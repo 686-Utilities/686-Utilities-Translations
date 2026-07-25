@@ -1,0 +1,7 @@
+<Command>
+  <TextCommandName>!rssupport</TextCommandName>
+		<Name>Rockstar Support</Name>
+		<Title><![CDATA[Your Question Has Already been Answered.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[It looks like your question has already been answered on the **Official Rockstar Games Support Website**. You can visit the website [**here**](https://support.rockstargames.com/).]]></Description>
+</Command>
