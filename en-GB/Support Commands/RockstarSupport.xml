@@ -1,5 +1,5 @@
 <Command>
-  <TextCommandName>!rssupport</TextCommandName>
+  <TextCommandName>!rsupport</TextCommandName>
 		<Name>Rockstar Support</Name>
 		<Title><![CDATA[Issue Requires Official Rockstar Support.]]></Title>
 		<Color>89, 0, 255</Color>
