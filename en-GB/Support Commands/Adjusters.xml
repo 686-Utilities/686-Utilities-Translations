@@ -11,12 +11,12 @@
 		</Button>
 		<Button>
 			<Label><![CDATA[Heap Adjuster]]></Label>
-			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster]]></Url>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster-enhanced]]></Url>
 			<Style>Link</Style>
 		</Button>
 		<Button>
 			<Label><![CDATA[Packfile Limit Adjuster]]></Label>
-			<Url><![CDATA[https://www.gta5-mods.com/tools/packfile-limit-adjuster]]></Url>
+			<Url><![CDATA[https://www.gta5-mods.com/scripts/packfile-limit-adjuster-enhanced/]]></Url>
 			<Style>Link</Style>
 		</Button>
 </Command>
