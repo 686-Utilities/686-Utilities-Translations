@@ -1,0 +1,17 @@
+<Translations>
+  <Title><![CDATA[686 Utilities: Outil de fusion META]]></Title>
+  <MergeResultsHeader><![CDATA[{0} Fusionner les résultats :]]></MergeResultsHeader>
+  <MergeResultsDetectedFile><![CDATA[Fichier détecté : **{0}**]]></MergeResultsDetectedFile>
+  <MergeResultsAddedEntries><![CDATA[**Entrées ajoutées :** `{0}`]]></MergeResultsAddedEntries>
+  <MergeResultsModifiedEntries><![CDATA[**Entrées modifiées :** `{0}`]]></MergeResultsModifiedEntries>
+  <MergeResultsDiscardedEntries><![CDATA[**Entrées ignorées :** `{0}`]]></MergeResultsDiscardedEntries>
+
+  <OriginalFileHeader><![CDATA[Votre fichier original téléchargé :]]></OriginalFileHeader>
+  <OriginalFileDescription><![CDATA[Ce fichier a servi de fichier de base. Vous avez fusionné votre autre fichier avec celui-ci. Une sauvegarde du fichier est disponible ici.]]></OriginalFileDescription>
+
+  <ModifiedFileHeader><![CDATA[Votre fichier modifié téléchargé :]]></ModifiedFileHeader>
+  <ModifiedFileDescription><![CDATA[Ce fichier a servi de fichier modifié. Les entrées correspondant aux véhicules que vous avez choisis ont été modifiées ou ajoutées à votre fichier d'origine à partir de ce fichier. Une sauvegarde du fichier est disponible ici.]]></ModifiedFileDescription>
+
+  <MergedFileHeader><![CDATA[Votre nouveau fichier fusionné :]]></MergedFileHeader>
+  <MergedFileDescription><![CDATA[Ce fichier est votre nouveau fichier fusionné. Il intègre les modifications de votre fichier modifié dans votre fichier d'origine, pour les véhicules que vous avez sélectionnés.]]></MergedFileDescription>
+</Translations>

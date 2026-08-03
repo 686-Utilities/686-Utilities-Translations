@@ -1,0 +1,6 @@
+<Command>
+		<Name>Permissions</Name>
+		<Title><![CDATA[Configurer les permissions de votre dossier GTAV.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Nous vous invitons à modifier les autorisations de votre dossier GTAV. Veuillez accéder à votre dossier GTAV, faire un clic droit dessus et sélectionner Propriétés > Sécurité. Accordez le « Contrôle total » aux éléments suivants :\n• Utilisateurs\n• SYSTÈME\n• Administrateur]]></Description>
+	</Command>

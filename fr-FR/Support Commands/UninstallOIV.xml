@@ -1,0 +1,6 @@
+<Command>
+		<Name>Désinstaller un OIV</Name>
+		<Title><![CDATA[Pour désinstaller des fichiers OIV :]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[1. Téléchargez WinRAR/7-Zip\n2. Ouvrez le fichier OIV et recherchez le fichier nommé '**assembly.xml**'\n3. Vous pouvez y voir tous les fichiers qui ont été remplacés. Vous pouvez maintenant les supprimer. (Assurez-vous d'être dans votre dossier de mods !)]]></Description>
+	</Command>

@@ -1,0 +1,7 @@
+<Command>
+		<Name>Fichier journal</Name>
+		<Title><![CDATA[Joignez votre fichier journal (log) RagePluginHook.]]></Title>
+		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Veuillez joindre votre fichier journal RagePluginHook – un **document .log** situé dans votre répertoire principal ; il ne se trouve **pas** dans votre dossier « logs ».]]></Description>
+</Command>

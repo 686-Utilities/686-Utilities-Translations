@@ -1,0 +1,7 @@
+<Command>
+  <TextCommandName>copiedlog</TextCommandName>
+		<Name>Fichier journal copié</Name>
+		<Title><![CDATA[RagePluginHook.log, pas Message.txt!]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[On dirait que vous avez **copié-collé le contenu de votre fichier journal** au lieu de téléverser le fichier lui-même. \n\nPour nous aider à diagnostiquer pleinement votre problème, veuillez glisser-déposer le fichier `RagePluginHook.log` complet dans ce canal ou utiliser le bouton de téléversement de fichiers de Discord.]]></Description>
+</Command>

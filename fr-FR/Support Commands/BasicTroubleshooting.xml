@@ -1,0 +1,11 @@
+<Command>
+	    <TextCommandName>Dépannage</TextCommandName>
+		<Name>Dépannage</Name>
+		<Title><![CDATA[Étapes de dépannage de base.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Avant que nous puissions vous aider davantage, veuillez effectuer ces étapes de dépannage de base : \n1. **Renommez votre dossier « mods » en « _mods »**. Si cela fonctionne, assurez-vous d'avoir installé un Heap Adjuster, un Packfile Limit Adjuster et un fichier gameconfig personnalisé. Si rien ne change, annulez les modifications récentes apportées à votre dossier mods. \n2. **Renommez « dinput8.dll » en « _dinput8.dll »**. Si cela fonctionne, l'un de vos fichiers .asi est à l'origine du problème. Rétablissez le nom d'origine, puis retirez tous les fichiers .asi et réajoutez-les un par un pour identifier le coupable. \n3. **Renommez « vfs.dll » en « _vfs.dll »**. Si cela fonctionne, le problème est probablement lié à Lenny's Mod Loader. \n4. **Vérifiez l'intégrité des fichiers du jeu** ([Steam](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.), [Epic Games](https://www.epicgames.com/help/epic-games-store-c-202300000001639/launcher-support-c-202300000001735/how-do-i-verify-game-files-in-the-epic-games-launcher-a202300000017217) ou [Version boîte/Rockstar](https://support.rockstargames.com/articles/1LPrvXoriD2629aSKW2gnQ/how-to-verify-game-files-in-the-rockstar-games-launcher)).]]></Description>
+		<Field>
+			<Name><![CDATA[L'une de ces étapes a-t-elle résolu votre problème ?]]></Name>
+			<Value><![CDATA[Veuillez nous indiquer la cause du problème que vous avez rencontré et ce qui vous a permis de le résoudre.]]></Value>
+		</Field>
+	</Command>

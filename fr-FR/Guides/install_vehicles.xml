@@ -1,0 +1,84 @@
+<Guide id="install_vehicles" name="Comment installer des véhicules">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Véhicules remplacés VS Véhicules ajoutés]]></Title>
+    <Description><![CDATA[
+Lors de l'installation de véhicules dans LSPDFR, vous disposez généralement de deux options :
+
+- **Véhicules de remplacement (Replace) :** ils écrasent un véhicule déjà présent dans le jeu (par ex. police3) en plaçant les fichiers dans le dossier « patchday » le plus récent.
+- **Véhicules « Add-on » :** ils créent des emplacements de véhicules entièrement nouveaux en ajoutant une nouvelle entrée DLC dans les fichiers du jeu.
+
+🚨 **Remarque :** Ces catégories ne sont pas toujours strictes. Il arrive que des packs de véhicules soient conçus pour remplacer des modèles existants tout en s'installant comme des « add-ons », et inversement.
+    ]]></Description>
+    <Fields>
+      <Field name="Lequel devrais-je utiliser ?" inline="false"><![CDATA[
+Si votre pack de véhicules contient des fichiers `.yft` et `.ytd`, il s'agit probablement d'un pack de type **replace** (remplacement).
+S'il comprend un dossier complet et des instructions concernant le fichier `dlclist.xml`, il s'agit probablement d'un **addon** (ajout).
+      ]]></Field>
+    </Fields>
+    <Buttons>
+      <Button type="interactive" targetPage="replace"><![CDATA[Installer un véhicule replace (à remplacer)]]></Button>
+      <Button type="interactive" targetPage="addon"><![CDATA[Installer un véhicule addon (ajouté)]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="replace">
+    <Title><![CDATA[Installation d'un véhicule replace (à remplacerà)]]></Title>
+    <Description><![CDATA[
+1. Renommez les fichiers de votre véhicule si nécessaire (par ex. `police3.yft`, `police3.ytd`, etc.).
+2. Sélectionnez tous les fichiers `.yft` et `.ytd` concernés (y compris ceux portant le suffixe `_hi`).
+3. Glissez-déposez-les dans votre **patchday** le plus récent à l'aide d'OpenIV. Vous pouvez trouver ce chemin d'accès en utilisant la commande `/support Replace`.
+4. Si vous devez modifier des fichiers texte tels que `vehicles.meta`, remplacez uniquement les entrées correspondant aux véhicules que vous modifiez plutôt que d'écraser le fichier entier.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/QbrJ3fA.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" targetPage="els"><![CDATA[S'agit-il de véhicules ELS ?]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[Je ne peux pas glisser-déposer ni modifier le fichier.]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="addon">
+    <Title><![CDATA[Installation d'un véhicule « addon » (ajouté)]]></Title>
+    <Description><![CDATA[
+1. Dans OpenIV, accédez à : `GTAV/mods/update/x64/dlcpacks`
+2. Glissez-déposez le **dossier du véhicule** complet (par ex. `carpack`) dans ce répertoire.
+3. Accédez à : `GTAV/mods/update/update.rpf/common/data/dlclist.xml`
+4. Ajoutez la ligne suivante à la fin de la liste :
+
+<Item>dlcpacks:/carpack/</Item>
+
+🔁 Remplacez `carpack` par le nom réel du dossier du véhicule que vous avez ajouté à l'étape 2.
+    ]]></Description>
+    <ImageUrl>https://i.imgur.com/peQEB2g.png</ImageUrl>
+    <Buttons>
+      <Button type="ephemeral" targetPage="els"><![CDATA[S'agit-il de véhicules ELS ?]]></Button>
+      <Button type="ephemeral" targetPage="dragdrop"><![CDATA[Je ne peux pas glisser-déposer ni modifier le fichier.]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="els">
+    <Title><![CDATA[Assurez-vous d'installer le fichier ELS pour les véhicules ELS !]]></Title>
+    <Description><![CDATA[
+Veillez à installer les fichiers « .xml » fournis avec les packs de véhicules compatibles ELS.
+Ils doivent être placés dans le dossier suivant :
+`GTAV/ELS/pack_default`
+
+Sans ces fichiers XML, l'éclairage d'urgence risque de ne pas fonctionner correctement.
+    ]]></Description>
+    <Buttons>
+      <Button type="link" url="https://www.lcpdfr.com/downloads/gta5mods/scripts/13865-emergency-lighting-system/"><![CDATA[Qu'est-ce que ELS ?]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="dragdrop">
+    <Title><![CDATA[Impossible de glisser-déposer ou de modifier des fichiers dans OpenIV]]></Title>
+    <Description><![CDATA[
+Vous rencontrez des problèmes pour glisser ou modifier des fichiers dans OpenIV ? Essayez les étapes suivantes :
+
+1. Assurez-vous que le **Mode Édition** (Edit Mode) est activé (coin supérieur droit).
+2. Extrayez le contenu de l'archive ZIP ou RAR téléchargée avant de tenter l'installation.
+3. Pour les fichiers `.meta`, `.xml` ou les fichiers texte, faites un **clic droit > Modifier** (Edit) au lieu de simplement double-cliquer pour les ouvrir.
+    ]]></Description>
+  </Page>
+</Guide>

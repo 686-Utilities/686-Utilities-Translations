@@ -1,0 +1,11 @@
+<Command>
+		<Name>Raccourcis clavier</Name>
+		<Title><![CDATA[Configuration et modification de vos raccourcis clavier.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Veuillez consulter la liste des raccourcis clavier valides sur le site web de Microsoft.]]></Description>
+  <Button>
+			<Label><![CDATA[Options de touches]]></Label>
+			<Url><![CDATA[https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=windowsdesktop-8.0]]></Url>
+			<Style>Lien</Style>
+		</Button>
+</Command>

@@ -1,0 +1,27 @@
+<Command>
+   <TextCommandName>graphics</TextCommandName>
+<Name>Graphiques</Name>
+<Title>
+<![CDATA[ Quel mod graphique utilisez-vous ? ]]>
+</Title>
+<Color>89, 0, 255</Color>
+<Description>
+<![CDATA[ Vous trouverez ci-dessous des recommandations de mods graphiques sélectionnés pour leur stabilité et leur compatibilité avec LSPDFR. ]]>
+</Description>
+<Field>
+<Name>
+<![CDATA[ __Nous recommandons :__ ]]>
+</Name>
+<Value>
+<![CDATA[ > [**CoreFX** (Gratuit)](https://www.patreon.com/c/crxhvrd/home) \n > Une amélioration spectaculaire de la clarté visuelle et du réalisme grâce à un éclairage avancé, un étalonnage des couleurs personnalisé et des textures plus nettes. \n > [**Visual V** (Gratuit)](https://www.gta5-mods.com/misc/visualv) \n > Une refonte graphique optimisée pour les performances, axée sur le réalisme grâce à une refonte des cycles météorologiques, un rendu amélioré et des ombres plus nettes. \n > [**QuantV** (Payant)](https://www.patreon.com/c/QuantV/home) \n > Une refonte graphique haut de gamme intégrant des shaders personnalisés très avancés, des reflets en temps réel et un éclairage basé sur la physique, offrant un rendu visuel se rapprochant au plus près d'images réelles. Ce mod peut nécessiter un PC puissant. ]]>
+</Value>
+</Field>
+<Field>
+<Name>
+<![CDATA[ __Nous ne recommandons pas:__ ]]>
+</Name>
+<Value>
+<![CDATA[ > [**Natural Vision Evolved** (Gratuit/Payant)](https://www.razedmods.com/)\n > NVE a fière allure, mais peut provoquer des plantages et des problèmes de performance, tout en posant des soucis de compatibilité avec LSPDFR. \n > [**Redux** (Gratuit)](https://gta5redux.com/)\n > GTA V Redux n'est plus fiable avec les versions récentes de GTA V. \n > [**ENB** (Gratuit)](http://enbdev.com/download.html)\n > ENB manque de mises à jour essentielles pour les dernières versions de GTA V et entraîne de fréquents plantages.]]>
+</Value>
+</Field>
+</Command>

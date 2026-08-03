@@ -1,0 +1,12 @@
+<Command>
+  <TextCommandName>!rsupport</TextCommandName>
+		<Name>Rockstar Support</Name>
+		<Title><![CDATA[Problème qui nécessite l'intervention du support officiel de Rockstar]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Malheureusement, il semble que vous rencontriez un **problème inexplicable que notre équipe d'assistance ne peut pas résoudre**. Cela peut être dû à une cause interne nécessitant l'intervention d'un représentant officiel du support.\n\nVeuillez contacter l'équipe d'assistance officielle de Rockstar Games pour obtenir de l'aide supplémentaire.]]></Description>
+	<Button>
+			<Label><![CDATA[Rockstar Games Support]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/]]></Url>
+			<Style>Lien</Style>
+		</Button>
+</Command>

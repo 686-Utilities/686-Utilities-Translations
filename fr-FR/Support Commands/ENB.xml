@@ -1,0 +1,7 @@
+<Command>
+	 <TextCommandName>ENB</TextCommandName>
+		<Name>ENB</Name>
+		<Title><![CDATA[Avis de prise en charge ENB.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[En raison de l'absence de mises à jour nécessaires à la compatibilité avec les versions récentes de GTA V, **ENB** peut provoquer des plantages fréquents ainsi que d'autres problèmes. \n\nPar conséquent, **nous n'assurons plus le support** auprès des utilisateurs ayant installé ENB.]]></Description>
+	</Command>

@@ -1,0 +1,8 @@
+<Command>
+	<TextCommandName>ELSDLS</TextCommandName>
+		<Name>Compatibilité entre ELS et DLS</Name>
+		<Title><![CDATA[Comment rendre ELS et DLS compatibles entre eux.]]></Title>
+	    <ImageUrl><![CDATA[https://cdn.discordapp.com/attachments/1355618651516047360/1521546094192889909/image.png?ex=6a4539b9&is=6a43e839&hm=e4888a51db7b0a4f5aeb9df2bf7315db9cf7aee676a9cffd2c0ab48c5f9ee842&]]></ImageUrl>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Rendre ELS et DLS compatibles entre eux est très simple. Veuillez suivre les étapes ci-dessous. \n\n 1. Localisez le fichier **DLS.ini** et recherchez la valeur « Extra Patch ». \n 2. Passez la valeur « Extra Patch » de **« true » à « false »** et enregistrez les modifications. \n\n ELS et DLS devraient désormais pouvoir fonctionner simultanément. **Si vous rencontrez toujours des problèmes**, veuillez vous rendre sur l'un de nos nombreux [canaux d'assistance](https://discord.com/channels/788491012553179217/930551817790697492).]]></Description>
+	</Command>

@@ -1,0 +1,21 @@
+<Command>
+		<Name>Forcer une mise à jour de GTAV</Name>
+		<Title><![CDATA[Forcer une mise à jour de GTAV.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Si votre version de GTAV est antérieure à la dernière version publiée, vous devrez peut-être forcer sa mise à jour. Pour ce faire, veuillez supprimer GTAV.exe, puis vérifier les fichiers de votre jeu. Cliquez sur le bouton ci-dessous pour consulter les instructions correspondantes.]]></Description>
+		<Button>
+			<Label><![CDATA[Epic Games]]></Label>
+			<Url><![CDATA[https://www.epicgames.com/help/en-US/technical-support-c90/general-support-c91/how-do-i-verify-game-files-in-the-epic-games-launcher-a3638#:~:text=To%20verify%20the%20installation%20ofin%20the%20drop%2Ddown%20navigation.]]></Url>
+			<Style>Lien</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Steam]]></Label>
+			<Url><![CDATA[https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335#:~:text=From%20a%20game%27s%20library%20pageprocess%20may%20take%20several%20minutes.]]></Url>
+			<Style>Lien</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Retail]]></Label>
+			<Url><![CDATA[https://support.rockstargames.com/articles/360036000713/How-to-verify-game-files-in-the-Rockstar-Games-Launcher]]></Url>
+			<Style>Lien</Style>
+		</Button>
+	</Command>
