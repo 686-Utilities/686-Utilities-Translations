@@ -7,7 +7,7 @@
 まず、「Download LSPDFR」ボタンをクリックすると、LSPD First Response のページが開きます。  
 ダウンロード時は必ず **Manual Install** を選択してください。
 ]]></Description>
-    <ImageUrl>https://i.imgur.com/IUbkSxW.png</ImageUrl>
+    <ImageUrl>https://i.imgur.com/UnCT5oB.png</ImageUrl>
     <Fields>
       <Field name="RAGEPluginHookはどうしますか？" inline="true"><![CDATA[
 RAGEPluginHook は LSPDFR のダウンロードにすでに含まれています。
