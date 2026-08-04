@@ -1,0 +1,6 @@
+<Command>
+		<Name>Erreur du cercle rouge OpenIV</Name>
+		<Title><![CDATA[Impossible d'effectuer un glisser-déposer dans OpenIV.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Il peut être frustrant de ne pas pouvoir glisser-déposer des fichiers dans votre répertoire principal via OpenIV. Veuillez essayer les solutions ci-dessous pour résoudre ce problème : \n1. Assurez-vous que le **Mode Édition** (Edit Mode) est activé. \n2. Utilisez **WinRAR** au lieu de l'**Explorateur Windows**. \n3. Faites d'abord glisser le fichier sur le bureau, puis dans OpenIV. ]]></Description>
+</Command>

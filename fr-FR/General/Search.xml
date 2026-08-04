@@ -1,0 +1,21 @@
+<Translations>
+  <Title><![CDATA[Fichier LCPDFR.com : {0}]]></Title>
+  <FileNotFound><![CDATA[Ce fichier n'est pas encore disponible. Veuillez réessayer dans quelques instants.]]></FileNotFound>
+  <Unknown><![CDATA[Inconnu(e)]]></Unknown>
+  <AuthorUnknown><![CDATA[Inconnu(e)]]></AuthorUnknown>
+  <AuthorPrefix><![CDATA[Téléchargé par : {0}]]></AuthorPrefix>
+
+  <FieldCategory><![CDATA[Catégorie]]></FieldCategory>
+  <FieldLatestVersion><![CDATA[Dernière version]]></FieldLatestVersion>
+  <FieldStatistics><![CDATA[Statistiques]]></FieldStatistics>
+  <Footer><![CDATA[686 Utilities | LCPDFR.com Recherche de fichiers]]></Footer>
+
+  <ButtonFilePage><![CDATA[Page du fichier]]></ButtonFilePage>
+  <ButtonViewChangelog><![CDATA[Voir le journal des modifications]]></ButtonViewChangelog>
+
+  <StatsViews><![CDATA[Vues]]></StatsViews>
+  <StatsDownloads><![CDATA[Téléchargements]]></StatsDownloads>
+  <StatsReviews><![CDATA[Avis]]></StatsReviews>
+  <StatsComments><![CDATA[Commentaires]]></StatsComments>
+  <StatsLastSynced><![CDATA[Statistiques synchronisées pour la dernière fois : {0}]]></StatsLastSynced>
+</Translations>

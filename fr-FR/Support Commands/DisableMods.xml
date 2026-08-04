@@ -1,0 +1,10 @@
+<Command>
+		<Name>Désactiver les mods</Name>
+		<Title><![CDATA[Désactivez votre dossier de mods.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Renommer votre dossier mods en **_mods** et réessayez.\nNote that all custom vehicles, uniforms, and anything else in your mods folder will not load.]]></Description>
+		<Field>
+			<Name><![CDATA[Cela a-t-il résolu votre problème ?]]></Name>
+			<Value><![CDATA[Cela signifie que le problème provient de votre dossier de mods.\nCependant, nous ne pouvons pas déterminer avec précision ce qui cause le souci.\n\nTout d'abord, assurez-vous de disposer d'un fichier Gameconfig personnalisé, ainsi que de Heap Adjuster et Packfile Limit Adjuster.\nSi ce n'est pas le cas, exécutez la commande `/support Adjusters` pour obtenir les liens correspondants.\n\n**Si vous les avez déjà installés, vous pouvez alors :**\nA) Annuler les modifications récentes apportées à votre dossier de mods.\nB) Supprimer votre dossier de mods et en créer un nouveau.]]></Value>
+		</Field>
+	</Command>

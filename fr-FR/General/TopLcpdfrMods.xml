@@ -1,0 +1,22 @@
+<Translations>
+  <OnlyAllTimeAvailable><![CDATA[Seule l'option « Tout le temps » est disponible pour le moment.]]></OnlyAllTimeAvailable>
+  <InvalidCategory><![CDATA[Catégorie invalide.]]></InvalidCategory>
+  <NoFilesFound><![CDATA[Aucun fichier avec des statistiques de téléchargement n'a été trouvé pour cette catégorie.]]></NoFilesFound>
+  <AllCategories><![CDATA[Toutes les catégories]]></AllCategories>
+  <CategoryFallback><![CDATA[Catégorie {0}]]></CategoryFallback>
+  <PeriodAllTime><![CDATA[N'importe quand]]></PeriodAllTime>
+
+  <HeaderTitle><![CDATA[Meilleurs fichiers sur LCPDFR.com]]></HeaderTitle>
+  <HeaderFilters><![CDATA[-# Catégorie : **{0}**   |   Période : **{1}**]]></HeaderFilters>
+
+  <DownloadsLabel><![CDATA[Téléchargements]]></DownloadsLabel>
+  <LastUpdatedLabel><![CDATA[Dernière mise à jour]]></LastUpdatedLabel>
+  <UnknownDate><![CDATA[Inconnu]]></UnknownDate>
+  <PageCounter><![CDATA[-# Page **{0}**/**{1}**]]></PageCounter>
+
+  <ShareButton><![CDATA[Partager]]></ShareButton>
+<ShareNotOwner><![CDATA[Seule la personne ayant exécuté cette commande peut partager cet instantané du classement.]]></ShareNotOwner>
+<ShareFailed><![CDATA[Nous n'avons pas pu partager ceci pour le moment. Veuillez actualiser le classement et réessayer.]]></ShareFailed>
+<ShareSuccess><![CDATA[Partagé avec succès.]]></ShareSuccess>
+
+</Translations>

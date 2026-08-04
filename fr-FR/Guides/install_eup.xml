@@ -1,0 +1,99 @@
+<Guide id="install_eup" name="Comment installer EUP">
+  <Author>Charlie686</Author>
+
+  <Page id="home">
+    <Title><![CDATA[Comment installer EUP ?]]></Title>
+    <Description><![CDATA[
+Le pack Emergency Uniforms Pack (EUP) ajoute à GTA V des tenues de haute qualité pour les forces de l'ordre, les services de secours et les civils. Il se compose de plusieurs éléments :
+
+**EUP Law & Order** – Le pack principal contenant les uniformes et équipements de police standard.
+
+**EUP Serve & Rescue** – Ajoute des tenues pour les pompiers, les services médicaux d'urgence (EMS) et d'autres services de secours (facultatif, mais recommandé).
+
+**EUP Menu** – Permet de parcourir et d'appliquer les tenues EUP en jeu via un menu convivial.
+
+**EUP Configurations** – Ajoute des préréglages de tenues et des fichiers de configuration destinés aux personnages de LSPDFR.
+
+Nous recommandons d'installer ces 4 éléments pour profiter de la meilleure expérience possible.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="laworder"><![CDATA[Installer le pack Law & Order]]></Button>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Installer le pack Serve & Rescue =]]></Button>
+      <Button type="interactive" targetPage="menu"><![CDATA[Installer EUP Menu]]></Button>
+      <Button type="interactive" targetPage="config"><![CDATA[Configurations d'installation]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="laworder">
+    <Title><![CDATA[Installation du pack EUP Law & Order]]></Title>
+    <Description><![CDATA[
+1. Téléchargez EUP Law & Order :
+[**EUP Law & Order (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/)
+
+2. Téléchargez `EUPLO8.3.oiv` (pas le package LML) et extrayez-le.
+
+3. Glissez le fichier `.OIV` sur votre bureau.
+
+4. Ouvrez **OpenIV** → Tools → Package Installer → sélectionnez le fichier `.OIV`.
+
+5. Lorsque vous y êtes invité, installez-le dans le dossier **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="serveandrescue"><![CDATA[Installer le pack Serve & Rescue]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="serveandrescue">
+    <Title><![CDATA[Installation du pack EUP Serve & Rescue]]></Title>
+    <Description><![CDATA[
+1. Téléchargez EUP Serve & Rescue :
+[**EUP Serve & Rescue (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/)
+
+2. Téléchargez `EUPSR1.5.oiv` (pas le package LML) et extrayez-le.
+
+3. Glissez le fichier `.OIV` sur votre bureau.
+
+4. Ouvrez **OpenIV** → Tools → Package Installer → sélectionnez le fichier `.OIV`.
+
+5. Lorsque vous y êtes invité, installez-le dans le dossier **mods**.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="menu"><![CDATA[Installer EUP Menu]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="menu">
+    <Title><![CDATA[Installation du menu EUP]]></Title>
+    <Description><![CDATA[
+1. Téléchargez EUP Menu :
+[**EUP Menu (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/)
+
+2. Glissez-déposez le dossier `plugins` dans le répertoire principal de GTA V.
+
+3. Téléchargez [**RAGENativeUI**](https://github.com/alexguirre/RAGENativeUI/releases) et extrayez-le.
+
+4. Placez le fichier `RAGENativeUI.dll` dans le répertoire principal de GTA V.
+
+5. Notez que les fichiers de personnalisation d'EUP sont générés lors du premier chargement d'EUP Menu en jeu.
+    ]]></Description>
+    <Buttons>
+      <Button type="interactive" targetPage="config"><![CDATA[Configurations d'installation]]></Button>
+    </Buttons>
+  </Page>
+
+  <Page id="config">
+    <Title><![CDATA[Installation des configurations EUP]]></Title>
+    <Description><![CDATA[
+1. Téléchargez les fichiers de configuration :
+[**EUPFR Basic Configurations (LCPDFR)**](https://www.lcpdfr.com/downloads/gta5mods/datafile/22400-eupfr-basic-configurations/)
+
+2. Choisissez soit `EUPFR Basic - without addon cars`, soit `EUPFR UE - without car mods` (si vous utilisez l'Ultimate Edition).
+
+3. Ouvrez le dossier sélectionné et localisez le dossier `data`.
+
+4. Glissez-déposez le dossier `data` dans `GTAV/lspdfr`.
+
+5. Remplacez les fichiers si le système vous le demande.
+    ]]></Description>
+  </Page>
+</Guide>

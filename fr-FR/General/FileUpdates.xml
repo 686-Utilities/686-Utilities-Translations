@@ -1,0 +1,51 @@
+<Translations>
+  <FileUpdates><![CDATA[Mises à jour des fichiers]]></FileUpdates>
+  <OldVersion><![CDATA[Ancienne version]]></OldVersion>
+  <NewVersion><![CDATA[Nouvelle version]]></NewVersion>
+  <Version><![CDATA[Version]]></Version>
+  <LatestVersion><![CDATA[Dernière Version :]]></LatestVersion>
+  <Category><![CDATA[Catégorie]]></Category>
+  <Category2><![CDATA[Catégorie :]]></Category2>
+  <NewUpload><![CDATA[{0} a été mis en ligne.]]></NewUpload>
+  <NewUpdate><![CDATA[{0} a été mis en ligne.]></NewUpdate>
+  <GetDMUpdates><![CDATA[Recevez des mises à jour par MP sur ce fichier !]]></GetDMUpdates>
+  <VersionUnchangedTitle>Note</VersionUnchangedTitle>
+  <VersionUnchangedBody>Le numéro de version est resté inchangé dans cette mise à jour.</VersionUnchangedBody>
+  <ViewChangelog><![CDATA[Voir le journal des modifications]]></ViewChangelog>
+  <ChangelogHeader><![CDATA[Journal des modifications]]></ChangelogHeader>
+  <ChangelogVersionLabel><![CDATA[Version]]></ChangelogVersionLabel>
+  <ChangelogNoData><![CDATA[Aucune donnée de journal des modifications n'est encore enregistrée pour ce fichier.]]></ChangelogNoData>
+  <ChangelogTruncated><![CDATA[Ce journal des modifications a été tronqué pour l'affichage sur Discord.]]></ChangelogTruncated>
+  <ChangelogVersionSentence><![CDATA[Ce journal des modifications est associé à cette version de {0} : `{1}`]]></ChangelogVersionSentence>
+  <ChangelogFetching><![CDATA[Récupération du journal des modifications depuis LCPDFR.com...]]></ChangelogFetching>
+  <ChangelogFetchFailed><![CDATA[Impossible de récupérer le journal des modifications. Veuillez réessayer.]]></ChangelogFetchFailed>
+
+
+  <PanelTitle><![CDATA[Utilitaires 686 : Vos abonnements LCPDFR.com]]></PanelTitle>
+  <PanelDescription><![CDATA[Vous recevrez un MP lors de la mise à jour de ces fichiers.
+Pour ajouter un nouvel abonnement, utilisez « Ajouter un abonnement ».]]></PanelDescription>
+  <PanelSubscriptionCount><![CDATA[Nombre total d'abonnements : {0}]]></PanelSubscriptionCount>
+  <PanelPreviousPage><![CDATA[Page précédente]]></PanelPreviousPage>
+  <PanelNextPage><![CDATA[Page suivante]]></PanelNextPage>
+  <PanelAddSubscription><![CDATA[Ajouter un abonnement]]></PanelAddSubscription>
+  <PanelSearchAgain><![CDATA[Relancer la recherche]]></PanelSearchAgain>
+  <PanelManageAllSubscriptions><![CDATA[Gérer tous les abonnements]]></PanelManageAllSubscriptions>
+  <PanelDescriptionCommand><![CDATA[Examinez les fichiers correspondant aux résultats de votre recherche.]]></PanelDescriptionCommand>
+
+  <PanelSelectFilePlaceholder><![CDATA[Sélectionnez un fichier ci-dessous !]]></PanelSelectFilePlaceholder>
+  <PanelSubscribeToFilePlaceholder><![CDATA[Abonnez-vous à un fichier ci-dessous !]]></PanelSubscribeToFilePlaceholder>
+
+  <PanelAlreadySubscribed><![CDATA[Vous êtes déjà abonné à ce fichier. Essayez d'actualiser votre panel !]]></PanelAlreadySubscribed>
+  <PanelAlreadyUnsubscribed><![CDATA[Vous êtes déjà désabonné de ce fichier. Essayez d'actualiser votre panel !]]></PanelAlreadyUnsubscribed>
+  <PanelActionCancelled><![CDATA[Action annulée.]]></PanelActionCancelled>
+  <PanelSubscribedToFile><![CDATA[Abonné(e) à **{0}**.]]></PanelSubscribedToFile>
+  <PanelUnsubscribedFromFile><![CDATA[Désabonné(e) de **{0}**.]]></PanelUnsubscribedFromFile>
+
+  <PanelConfirmUnsubTitle><![CDATA[Souhaitez-vous vous désabonner de **{0}** ?]]></PanelConfirmUnsubTitle>
+  <PanelConfirmSubTitle><![CDATA[Souhaitez-vous vous abonner à **{0}** ?]]></PanelConfirmSubTitle>
+  <PanelYes><![CDATA[Oui]]></PanelYes>
+  <PanelNo><![CDATA[Non]]></PanelNo>
+
+  <PanelSearchModalTitle><![CDATA[Recherchez un fichier !]]></PanelSearchModalTitle>
+  <PanelSearchModalLabel><![CDATA[Saisissez le nom du fichier sur LCPDFR.com]]></PanelSearchModalLabel>
+</Translations>

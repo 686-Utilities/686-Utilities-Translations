@@ -1,0 +1,21 @@
+<Command>
+	 <TextCommandName>ogfile</TextCommandName>
+	<Name>Fichier original</Name>
+	<Title><![CDATA[Obtenir un fichier GTA V original (non modifié).]]></Title>
+	<Color>89, 0, 255</Color>
+	<Description><![CDATA[Si vous avez besoin d'un **fichier original de GTA V** (par exemple `visualsettings.dat` ou `update.rpf`), vous **l'avez déjà**.
+
+Le dossier `mods` n'est qu'une **copie des fichiers réels de votre jeu**, utilisée pour installer des mods en toute sécurité.
+Les **fichiers originaux se trouvent toujours au même emplacement, en dehors du dossier `mods`**.]]></Description>
+	<Field>
+		<Name><![CDATA[Comment trouver le dossier d'origine]]></Name>
+		<Value><![CDATA[1. Ouvrez votre **dossier d'installation de GTAV**.
+2. Accédez au **même emplacement** que le fichier situé dans le dossier `mods`.
+3. Copiez le fichier **depuis l'extérieur du dossier `mods`**.
+4. Collez-le au **même emplacement à l'intérieur du dossier `mods`**.
+
+Exemple :
+`GTAV\update\update.rpf` → original  
+`GTAV\mods\update\update.rpf` → copie moddée]]></Value>
+	</Field>
+</Command>

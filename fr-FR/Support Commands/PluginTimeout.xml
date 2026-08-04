@@ -1,0 +1,7 @@
+<Command>
+		<Name>Plugin Timeout Threshold</Name>
+		<Title><![CDATA[Augmentez dans RAGEPluginHook la valeur de « Plugin Timeout Threshold ».]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Augmentez la valeur de « Plugin Timeout Threshold » à **60 000** ; vous pouvez le faire dans les paramètres de RAGE. Pour accéder à ces paramètres, maintenez la touche Maj (Shift) enfoncée tout en lançant RAGE, ou cliquez sur l'icône d'engrenage sur l'écran de démarrage.]]></Description>
+		<ImageUrl><![CDATA[https://i.imgur.com/6JpbiiT.png]]></ImageUrl>
+	</Command>

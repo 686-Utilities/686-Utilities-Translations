@@ -7,7 +7,7 @@
 			<Name><![CDATA[Установка]]></Name>
 			<Value><![CDATA[Перетащите .dll файл в главную директорию.]]></Value>
 		</Field>
-		<ImageUrl><![CDATA[https://i.imgur.com/RiVkpHu.png]]></ImageUrl>
+		<ImageUrl><![CDATA[https://i.imgur.com/4DGfAmW.png]]></ImageUrl>
 		<Button>
 			<Label><![CDATA[RAGENativeUI]]></Label>
 			<Url><![CDATA[https://github.com/alexguirre/RAGENativeUI/releases]]></Url>

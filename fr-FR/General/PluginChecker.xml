@@ -1,0 +1,58 @@
+<Translations>
+  <Header><![CDATA[## {0}]]></Header>
+
+  <ViewLatest><![CDATA[Voir les dernières informations à propos de **{0}**.]]></ViewLatest>
+
+  <StatusLabel><![CDATA[**État :** {0}]]></StatusLabel>
+
+  <Status_UpToDate><![CDATA[`🟩 À JOUR`
+-# *Ce fichier est **à jour** {0}.*]]></Status_UpToDate>
+
+  <Status_UpToDate2><![CDATA[et est conçu pour {0}]]></Status_UpToDate2>
+
+  <Status_OutOfDate><![CDATA[`⚠️ OBSOLÈTE`
+-# *Ce fichier n'est **pas** à jour et est conçu pour {0}*]]></Status_OutOfDate>
+
+  <Status_Unknown><![CDATA[`INCONNNU`
+-# *L'état de ce fichier est inconnu.*]]></Status_Unknown>
+
+  <LCPDFRVersion><![CDATA[**LCPDFR.com Version:** `{0}`]]></LCPDFRVersion>
+  <LCPDFRVersionNote><![CDATA[-# *C'est la version indiquée sur la page du fichier LCPDFR.com.*]]></LCPDFRVersionNote>
+
+  <FileVersion><![CDATA[**Version du fichier:** `{0}`]]></FileVersion>
+  <FileVersionNote><![CDATA[-# *Il s'agit de la version indiquée pour le fichier dans le journal de RagePluginHook.*]]></FileVersionNote>
+
+  <FileIssues><![CDATA[**Problèmes liés aux fichiers :** {0}]]></FileIssues>
+
+  <Type_GTAV><![CDATA[Fichier GTAV]]></Type_GTAV>
+  <Type_LSPDFR><![CDATA[Plug-in LSPDFR]]></Type_LSPDFR>
+  <Type_RPH><![CDATA[Plug-in RPH]]></Type_RPH>
+  <Type_File><![CDATA[Fichier]]></Type_File>
+
+  <Btn_GetDMUpdates><![CDATA[Recevez des mises à jour par MP sur ce fichier !]]></Btn_GetDMUpdates>
+  <Btn_VisitFilePage><![CDATA[Consulter la page du fichier]]></Btn_VisitFilePage>
+
+  <DetailsFetching><![CDATA[Demande des détails complets du fichier à LCPDFR.com...]]></DetailsFetching>
+  <DetailsAlreadyPresent><![CDATA[Les détails complets sont déjà disponibles pour ce fichier.]]></DetailsAlreadyPresent>
+  <DetailsFetchComplete><![CDATA[Les détails complets ont été récupérés et stockés.]]></DetailsFetchComplete>
+  <DetailsFetchFailed><![CDATA[Impossible de récupérer les détails complets du fichier. Veuillez réessayer.]]></DetailsFetchFailed>
+
+  <StatsHeading><![CDATA[Statistiques]]></StatsHeading>
+  <StatsViews><![CDATA[Vues]]></StatsViews>
+  <StatsDownloads><![CDATA[Téléchargements]]></StatsDownloads>
+  <StatsReviews><![CDATA[Avis]]></StatsReviews>
+  <StatsComments><![CDATA[Commentaires]]></StatsComments>
+  <StatsLastSynced><![CDATA[Statistiques synchronisées pour la dernière fois : {0}]]></StatsLastSynced>
+  <StatsUnknown><![CDATA[N/A]]></StatsUnknown>
+
+  <DetailsOwnerOnly><![CDATA[Seul l'utilisat(eur/rice) ayant exécuté cette commande peut appuyer sur ce bouton de synchronisation.]]></DetailsOwnerOnly>
+  <DetailsActionCancelled><![CDATA[Action annulée.]]></DetailsActionCancelled>
+  
+  <DetailsConfirmTitle><![CDATA[Synchroniser ce fichier avec LCPDFR.com ?]]></DetailsConfirmTitle>
+  <DetailsConfirmBody><![CDATA[Les statistiques et les détails complets des fichiers sont généralement mis à jour tous les mois ou lors de la mise à jour d'un fichier.
+
+Si vous avez besoin des statistiques les plus récentes dès maintenant, veuillez poursuivre.]]></DetailsConfirmBody>
+  <DetailsConfirmYes><![CDATA[Oui, synchroniser maintenant]]></DetailsConfirmYes>
+  <DetailsConfirmNo><![CDATA[Non]]></DetailsConfirmNo>
+
+</Translations>

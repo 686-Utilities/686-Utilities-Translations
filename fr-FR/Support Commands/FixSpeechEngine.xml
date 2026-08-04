@@ -1,0 +1,15 @@
+<Command>
+	 <TextCommandName>Synthèse vocale</TextCommandName>
+		<Name>Correction du moteur de synthèse vocale</Name>
+		<Title><![CDATA[Dépannage du moteur de synthèse vocale Microsoft.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Si vous rencontrez des problèmes avec Grammar Police ou tout autre mod nécessitant Microsoft Speech Engine, veuillez suivre attentivement les instructions. \n\nLa vidéo suivante pourrait vous guider tout au long du processus : https://youtu.be/UCyNzMsV1Yc]]></Description>
+			    <Field>
+			<Name><![CDATA[Avant de demander une assistance supplémentaire, veuillez vérifier les points suivants :]]></Name>
+			<Value><![CDATA[\n\n - Vous avez installé la version 64 bits de Microsoft Speech Platform Runtime. La version 32 bits n'est pas compatible et ne fonctionnera pas : https://www.microsoft.com/en-us/download/details.aspx?id=27225 \n\n  - Vous avez installé un pack de langue valide pour la reconnaissance vocale (SR). L'installation du seul pack de synthèse vocale (TTS) ne fonctionnera pas : https://www.microsoft.com/en-us/download/details.aspx?id=27224 \n\n  - La langue que vous tentez d'utiliser inclut les fichiers de grammaire et de langue requis. **Les langues ne disposant pas de fichiers de grammaire compatibles ne fonctionneront pas correctement.**]]></Value>
+		</Field>
+	    <Field>
+			<Name><![CDATA[Rencontrez-vous toujours des difficultés ?]]></Name>
+			<Value><![CDATA[Si vous avez vérifié tous les points ci-dessus et que vous rencontrez toujours des problèmes, veuillez fournir des détails sur votre configuration ainsi que tout message d'erreur reçu.]]></Value>
+		</Field>
+	</Command>

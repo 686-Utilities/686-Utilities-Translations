@@ -16,6 +16,7 @@
 	`POLICET3` - Burrito (Bail Enforcement)
 	`POLDORADO` - Dorado Cruiser	
 	`POLGREENWOOD` - Greenwood Cruiser	
+	`POLDOMINATOR10` - FX Interceptor
 	`POLIMPALER5` - Impaler SZ Cruiser	
 	`POLIMPALER6` - Impaler LX Cruiser	
 	`POLTERMINUS` - Terminus Patrol
@@ -37,6 +38,8 @@
 	\n### EMS & FD
 	`FIRETRUK` - MTL Firetruck
 	`AMBULANCE` - Brute Ambulance
+	\n### Prison
+	`PBUS` - Prison Bus
 	\n### Lifeguards
 	`LGUARD` - Declasse SUV
 	`BLAZER` - Quadbike]]></Description>

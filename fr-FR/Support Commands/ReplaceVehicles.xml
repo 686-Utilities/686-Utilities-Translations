@@ -1,0 +1,10 @@
+<Command>
+		<Name>Remplacer des véhicules</Name>
+		<Title><![CDATA[Installation de véhicules à remplacer.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Tous les véhicules de remplacement (tels que « police2 ») doivent être installés à l'emplacement suivant :**\nGTAV/mods/update/x64/dlcpacks/patch2026_01/dlc.rpf/x64/levels/gta5/vehicles.rpf/]]></Description>
+		<Field>
+			<Name><![CDATA[Tutoriels vidéo]]></Name>
+			<Value><![CDATA[Regardez ceci [Guide vidéo](https://www.youtube.com/watch?v=SAGIisHY5gc) sur l'installation de véhicules à remplacer.]]></Value>
+		</Field>
+	</Command>

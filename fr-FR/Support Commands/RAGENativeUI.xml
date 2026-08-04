@@ -1,0 +1,16 @@
+<Command>
+		<Name>RNUI (RageNativeUI)</Name>
+		<Title><![CDATA[RAGENativeUI.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Afin de diagnostiquer votre problème, veuillez installer ou mettre à jour RAGENativeUI.]]></Description>
+		<Field>
+			<Name><![CDATA[Installation]]></Name>
+			<Value><![CDATA[Glissez-déposez le fichier .dll dans votre répertoire principal.]]></Value>
+		</Field>
+		<ImageUrl><![CDATA[https://i.imgur.com/4DGfAmW.png]]></ImageUrl>
+		<Button>
+			<Label><![CDATA[RAGENativeUI]]></Label>
+			<Url><![CDATA[https://github.com/alexguirre/RAGENativeUI/releases]]></Url>
+			<Style>Lien</Style>
+		</Button>
+	</Command>

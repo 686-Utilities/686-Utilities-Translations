@@ -1,0 +1,6 @@
+<Command>
+		<Name>Commandline</Name>
+		<Title><![CDATA[Configurer votre commandline.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[Dans le répertoire de GTAV, vous trouverez un fichier nommé **commandline**. Il s'agit d'un document texte. Supprimez tout le texte qu'il contient, puis ajoutez `-windowed`. Une fois cela fait, enregistrez le fichier.]]></Description>
+	</Command>

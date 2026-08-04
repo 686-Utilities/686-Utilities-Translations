@@ -1,0 +1,22 @@
+<Command>
+		<Name>Ajusteurs</Name>
+		<Title><![CDATA[Installez un Gameconfig personnalisé ainsi que les outils Heap Limit Adjuster et Packfile Limit Adjuster.]]></Title>
+		<Color>89, 0, 255</Color>
+		<Description><![CDATA[**Gameconfig personnalisé**\nÀ l'aide d'OpenIV, glissez-déposez le fichier gameconfig.xml dans
+`GTAV/mods/update/update.rpf/common/data`.\n\n**Heap Adjuster**\nPlacez les fichiers Heapadjuster.asi et HeapAdjuster.ini dans votre répertoire principal.\n\n**Packfile Limit Adjuster**\nPlacez les fichiers PackfileLimitAdjuster.asi et PackfileLimitAdjuster.ini dans votre répertoire principal.]]></Description>
+		<Button>
+			<Label><![CDATA[Gameconfig personnalisé]]></Label>
+			<Url><![CDATA[https://github.com/pnwparksfan/gameconfig/releases]]></Url>
+			<Style>Lien</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Heap Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/tools/heapadjuster-enhanced]]></Url>
+			<Style>Lien</Style>
+		</Button>
+		<Button>
+			<Label><![CDATA[Packfile Limit Adjuster]]></Label>
+			<Url><![CDATA[https://www.gta5-mods.com/scripts/packfile-limit-adjuster-enhanced/]]></Url>
+			<Style>Lien</Style>
+		</Button>
+</Command>

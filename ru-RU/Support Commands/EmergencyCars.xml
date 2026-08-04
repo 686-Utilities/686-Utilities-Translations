@@ -16,27 +16,31 @@
 	`POLICET3` - Burrito (Bail Enforcement)
 	`POLDORADO` - Dorado Cruiser	
 	`POLGREENWOOD` - Greenwood Cruiser	
+	`POLDOMINATOR10` - FX Interceptor
 	`POLIMPALER5` - Impaler SZ Cruiser	
 	`POLIMPALER6` - Impaler LX Cruiser	
 	`POLTERMINUS` - Terminus Patrol
 	`POLFACTION2` - Outreach Faction
 	`POLCOQUETTE4` - Coquette D10 Pursuit
 	`POLCARACARA` - Caracara Pursuit
+	`POLIGNUS` - Ignus Pursuit
 	`PREDATOR` - Police Boat	
 	`POLMAV` - Maverick
 	`RIOT` - Brute Riot
 	`RIOT2` - Brute RCV
 	`PRANGER` - Granger
-	\n### Шерифы
+	\n### Sheriff
 	`SHERIFF` - Stanier
 	`SHERIFF2` - Declasse SUV
 	\n### FIB
 	`FBI` - Buffalo
 	`FBI2` - Declasse SUV
-	\n### Парамедики и Пожарные
+	\n### EMS & FD
 	`FIRETRUK` - MTL Firetruck
 	`AMBULANCE` - Brute Ambulance
-	\n### Спасатели
+	\n### Prison
+	`PBUS` - Prison Bus
+	\n### Lifeguards
 	`LGUARD` - Declasse SUV
 	`BLAZER` - Quadbike]]></Description>
 	</Command>
