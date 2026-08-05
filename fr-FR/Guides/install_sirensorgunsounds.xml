@@ -6,7 +6,7 @@
     <Description><![CDATA[
 Les sons de sirènes ou de coups de feu peuvent se présenter sous différents formats. La procédure d'installation varie selon ce que vous avez téléchargé.
 
-**Sous quel format se trouve votre mod de sirène ?****
+**Sous quel format se trouve votre mod de sirène ?**
     ]]></Description>
     <Buttons>
       <Button type="interactive" targetPage="format_oac"><![CDATA[Fichier .oac (OpenFormats)]]></Button>
