@@ -3,5 +3,5 @@
 		<Title><![CDATA[Attach your RagePluginHook log.]]></Title>
 		<ImageUrl><![CDATA[https://i.imgur.com/KOajEeN.png]]></ImageUrl>
 		<Color>89, 0, 255</Color>
-		<Description><![CDATA[Please attach your RagePluginHook log - a **text document** found in your main directory; it is **not found in your logs folder.**]]></Description>
+		<Description><![CDATA[Please attach your RagePluginHook log - a **text document** found in your main directory; it is **not found in your logs folder** and does **not** have a date at the end.]]></Description>
 </Command>
