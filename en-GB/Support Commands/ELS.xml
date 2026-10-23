@@ -1,0 +1,28 @@
+<Command>
+   <TextCommandName>els</TextCommandName>
+    <Name>ELS</Name>
+    <Title><![CDATA[ELS | Basic Troubleshooting Guide]]></Title>
+    <Color>89, 0, 255</Color>
+    <Description><![CDATA[
+Our Support Team recommends following the troubleshooting steps below if you are experiencing issues with the Emergency Lighting System (ELS) plugin.
+
+**1. Script Hook V**
+Ensure you have the latest available version of Script Hook V installed. If you receive an ELS.asi error, please attach a screenshot of the error message when requesting support.
+
+**2. Check Your ELS Configuration**
+If your emergency lights are not working correctly, ensure the vehicle `.xml` files are installed in your `GTA V/ELS/pack_default` folder. These files are usually included with the vehicle download.
+
+**3. Check SirenSetting Limit Adjuster (SSLA)**
+If only certain lights are broken, or the ELS control panel opens using `Ctrl + P` but the lights do not work correctly, make sure you have the latest version of [SirenSetting Limit Adjuster](https://www.lcpdfr.com/downloads/gta5mods/scripts/28560-sirensetting-limit-adjuster/).
+
+**4. Check ELS and DLS Compatibility**
+If you have DLS V2 installed and want to use both ELS and DLS, please refer to the relevant support command pinned in this channel for further guidance.
+
+**Still experiencing issues?**
+
+If none of these steps fixed your issue, please let us know below whilst attaching the following files to your message:
+
+- `asiloader.log`
+- `ELS.log`
+    ]]></Description>
+</Command>
