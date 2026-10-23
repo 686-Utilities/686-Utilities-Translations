@@ -1,0 +1,17 @@
+<Command>
+   <TextCommandName>eup</TextCommandName>
+    <Name>EUP</Name>
+    <Title><![CDATA[EUP Troubleshooting]]></Title>
+    <Color>89, 0, 255</Color>
+    <Description><![CDATA[
+If you're having issues with EUP, try the steps below before asking for help.
+
+**1. Game crashes during startup or opening EUP Menu**
+Try installing the [YMT Limits Adjuster](https://github.com/Lepoissongamer/YmtLimitAdjuster/releases/tag/V0.1.2-alpha). Keep in mind that this is a vibe-coded script and may not work correctly.
+
+**3. EUP props missing from the menu**
+If you've installed props but they don't appear in the EUP menu, try installing [PedProp Limit Adjuster](https://www.lcpdfr.com/downloads/gta5mods/scripts/47179-pedprop-limit-adjuster/).
+
+If you're still having issues after trying these steps, please let us know below.
+    ]]></Description>
+</Command>
