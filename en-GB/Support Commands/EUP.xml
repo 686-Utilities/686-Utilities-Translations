@@ -7,7 +7,16 @@
 If you're having issues with EUP, try the steps below before asking for help.
 
 **1. Game crashes during startup or opening EUP Menu**
-Try installing the [YMT Limits Adjuster](https://github.com/Lepoissongamer/YmtLimitAdjuster/releases/tag/V0.1.2-alpha). Keep in mind that this is a vibe-coded script and may not work correctly.
+Try installing the [YMT Limits Adjuster](https://github.com/Lepoissongamer/YmtLimitAdjuster/releases/tag/V0.1.2-alpha). Keep in mind that this is a vibe-coded script and you should follow step 2 if it doesn't work.
+
+**2. Remove Lines from dlclist.xml**
+Remove the following lines from your dlclist.xml;
+<Item>dlcpacks:/mpg9ec/</Item> 
+<Item>dlcpacks:/patchdayg9ecng/</Item>
+<Item>dlcpacks:/mpsum2_g9ec/</Item>
+<Item>dlcpacks:/patchday27g9ecng/</Item>
+<Item>dlcpacks:/mpchristmas3_g9ec/</Item>
+<Item>dlcpacks:/patchday28g9ecng/</Item>
 
 **3. EUP props missing from the menu**
 If you've installed props but they don't appear in the EUP menu, try installing [PedProp Limit Adjuster](https://www.lcpdfr.com/downloads/gta5mods/scripts/47179-pedprop-limit-adjuster/).
