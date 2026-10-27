@@ -134,14 +134,14 @@ We recommend installing all 4 components for the best experience.
 </Title>
 <Description>
 <![CDATA[ 
-1. Download the MP Characters Overhaul:  
+1. Download the MP Characters Overhaul Mod:  
 [**MP Characters Overhaul (GTA5Mods)**](https://www.gta5-mods.com/player/improved-mp-freemode-clothes)
 
 2. Download all the listed requirements on the download page and install them correctly.
 
 3. Move the mpplayersfixes folder to mods\update\x64\dlcpacks
 
-4. In OpenIV - mods - update - update.rpf - common - data - dlclist.xml add the line <Item>dlcpacks:/mpPlayersFixes/</Item> 
+4. In OpenIV - mods\update\update.rpf\common\data\dlclist.xml add the line <Item>dlcpacks:/mpPlayersFixes/</Item> 
 
 5. Install the Legacy Data Files.oiv package with the OIV Package Installer
 
